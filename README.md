@@ -1,8 +1,6 @@
-Hi , I am Jaya Chandra. I am interested in web development.
-My hobbies include playing games, watching movies, coding.
+## Hi 👋, I'm Jaya Chandra
 
-
-<!---
-jayachandra116/jayachandra116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DevOps & Cloud Enthusiast  
+AWS Certified | Kubernetes | Docker | Terraform  
+Skilled in Python, Automation  
+Currently focusing on DevOps, CI/CD, and Cloud
